@@ -26,7 +26,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 
-<p><img align="left" src="github-readme-streak-stats.herokuapp.com/?user=ScunzieEdition&theme=dark" alt="scunzie"/>
+<p><img align="left" src="[github-readme-streak-stats.herokuapp.com/?user=ScunzieEdition&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=ScunzieEdition&theme=dark)https://github-readme-streak-stats.herokuapp.com/?user=ScunzieEdition&theme=dark" alt="scunzie"/>
 
 
  
